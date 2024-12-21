@@ -377,6 +377,6 @@ Conteúdo estudado nessa aula:<br>
 
 [![Debugging](http://img.youtube.com/vi//0.jpg)]( "Debugging")
 
-Link da vídeo aula: 
+Link da vídeo aula Youtube: 
 
 Link da documentação: https://github.com/vaamonde/python3/blob/main/01-introduction/12-debugging.md
